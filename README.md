@@ -48,6 +48,10 @@ A knuckle-dragging geek transitioning into DevOps and cloud engineering, thrivin
       - ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)  
 --->
 
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=lann87&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lann87&layout=compact&theme=radical)
+
 ## 🌟 About Me
 
 - 🏔️ Nature enthusiast: Hiking and rock climbing are my go-to outdoor activities
