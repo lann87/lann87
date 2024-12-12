@@ -50,7 +50,7 @@ A knuckle-dragging geek transitioning into DevOps and cloud engineering, thrivin
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=lann87&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lann87&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lann87&layout=compact&theme=radical&hide=jupyter%20notebook&langs_count=6)
 
 ## 🌟 About Me
 
