@@ -65,10 +65,6 @@ I'm building my network in the DevSecOps community and always excited to:
 
 Feel free to reach out if you're working on interesting problems or just want to chat tech!
 
----
-
-An unconventional mix of roughneck and renaissance man, always ready for the next challenge. 💪🧠
-
 <!---
 lann87/lann87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
